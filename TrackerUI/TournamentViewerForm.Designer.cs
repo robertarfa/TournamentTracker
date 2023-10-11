@@ -135,14 +135,14 @@
             // 
             // teamOneScoreValue
             // 
-            teamOneScoreValue.Location = new Point(630, 344);
+            teamOneScoreValue.Location = new Point(630, 345);
             teamOneScoreValue.Name = "teamOneScoreValue";
             teamOneScoreValue.Size = new Size(125, 27);
             teamOneScoreValue.TabIndex = 8;
             // 
             // teamTwoScoreValue
             // 
-            teamTwoScoreValue.Location = new Point(630, 529);
+            teamTwoScoreValue.Location = new Point(630, 530);
             teamTwoScoreValue.Name = "teamTwoScoreValue";
             teamTwoScoreValue.Size = new Size(125, 27);
             teamTwoScoreValue.TabIndex = 11;
@@ -184,7 +184,7 @@
             // 
             // scoreButton
             // 
-            scoreButton.BackColor = SystemColors.ActiveCaption;
+            scoreButton.BackColor = SystemColors.ButtonFace;
             scoreButton.DialogResult = DialogResult.Yes;
             scoreButton.FlatAppearance.BorderColor = Color.Silver;
             scoreButton.FlatAppearance.MouseDownBackColor = Color.Gray;
